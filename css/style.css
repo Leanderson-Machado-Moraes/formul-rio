@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.container {
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    color: blue;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+
+input {
+    margin-bottom: 10px;
+    width: 200pt;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+}
+.cidade{
+    margin-right: 10px;
+}
+.menores{
+    width: 105pt;
+}
+.estado{
+margin-right: 10px;
+}
+.telefone{
+    margin-top: 10px;
+    margin-right: 10px;
+
+}
+.fax{
+    margin-top: 10px;
+}
